@@ -1,2 +1,7 @@
-# Python-Projects
-This is a collection of projects I've worked on from basic to intermediate using Python coding. Please let me know if you have any questions or concerns
+# Name
+
+## PYTHON-PROJECTS
+
+## Description
+
+Collection of Python Projects spanning from the beginner to advanced. Starting from simpler projects such as Whats_the number to more complex projects like Python_REST_API. This is a statement of my journey. 
